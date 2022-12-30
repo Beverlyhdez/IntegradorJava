@@ -1,0 +1,4 @@
+Config\Conexion.class
+Controlador\SociosController.class
+Modelo\Socios.class
+Modelo\SociosDAO.class
